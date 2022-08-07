@@ -5,7 +5,7 @@ function sumAll(num1, num2) {
         return "ERROR";
     }
 
-    if( isNaN(num1)  || isNaN(num2) ){ 
+    if( isNaN(num1) || isNaN(num2) ){ 
         return "ERROR";
     }
 
